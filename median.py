@@ -1,8 +1,6 @@
- 
+  
 """Median calculator."""
 """ENTER YOUR SOLUTION HERE!"""
-
-while True:
 
 print("Enter a list of numbers separated by commas: ")
 list = [float(value) for value in input().split(",")]
